@@ -7,7 +7,7 @@ The dataset is included in the `data/` folder.
 Make sure the structure looks like this after cloning:
 
 ML-Project/
-├── ML_Project.ipynb
+├── Student_performance_Indicator.ipynb
 ├── README.md
 └── data/
 └── student_data.csv
